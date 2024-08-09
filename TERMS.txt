@@ -1,0 +1,38 @@
+Terms of Service
+
+Last Updated: 09 Aug 2024
+
+Welcome to Tarot Report LLC! By accessing or using our website, mobile applications, or social media channels, you agree to be bound by these Terms of Service ("Terms"). Please read them carefully.
+
+1. Company Information  
+Tarot Report LLC ("Company," "we," "us," or "our") is a limited liability company that provides entertainment content in the field of tarotology through artificial intelligence ("Services"). Our Services are offered via web and mobile applications as well as through social media channels.
+
+2. Services  
+Our Services allow users to ask questions and receive answers from a virtual tarot reader. If a question is incorrectly formulated and cannot be answered, the user loses points associated with the use of the Service.
+
+3. Eligibility  
+Our Services are intended for individuals. By using our Services, you confirm that you are at least 18 years old and legally capable of entering into a binding agreement.
+
+4. Geographic Availability  
+Our Services are available globally, with a focus on the EU, USA, Canada, the UK, Australia, New Zealand, and former CIS countries. However, we make no representation that our Services are appropriate or available in all locations.
+
+5. Payment and Refund Policy  
+Users may pay for our Services using utility tokens on the TON blockchain or traditional payment methods such as Visa, Mastercard, etc. All payments are non-refundable. In cases where the user is unable to access the Service due to technical issues caused by our application or third-party services, we may, at our discretion, issue bonus tokens after a thorough investigation.
+
+6. Disclaimer of Warranties and Limitation of Liability  
+Our Services are provided "as is" and "as available" without any warranties of any kind. We do not guarantee the accuracy, reliability, or completeness of any content or the results obtained from using our Services. We disclaim all liability for any direct, indirect, incidental, or consequential damages that may arise from your use of our Services.
+
+7. Data Collection and Privacy  
+We collect certain data necessary for the operation of our applications, as well as for marketing analytics. Please refer to our Privacy Policy for more details on how we handle your data.
+
+8. Dispute Resolution and Waiver of Class Action  
+In the event of any dispute arising out of or related to these Terms or our Services, the dispute shall be resolved on an individual basis. By using our Services, you agree to waive your right to participate in any class action lawsuits against Tarot Report LLC. All disputes will be settled individually, without resort to any form of class action.
+
+9. Changes to Terms  
+We reserve the right to modify these Terms at any time without prior notice. By continuing to use our Services after any changes are made, you agree to be bound by the revised Terms.
+
+10. Termination of Access  
+We reserve the right to suspend or terminate your access to our Services at any time for reasons including, but not limited to, unauthorized use of the application, infringement of intellectual property rights, or upon request by competent governmental authorities.
+
+11. Contact Information  
+If you have any questions or concerns regarding these Terms, please contact us at tarotreportofficial@gmail.com.
